@@ -1,0 +1,4 @@
+print("---------------------")
+print("This is a test project using Python")
+print("Project Name: PythonTestProject")
+print("---------------------")
